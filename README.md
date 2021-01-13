@@ -48,4 +48,4 @@
 - docker push {ID}/example
 - docker pull {ID}/example
 
-![dockerpushpull](/image/docker push pull.PNG)
+![dockerpushpull](/image/dockerpushpull.PNG)
